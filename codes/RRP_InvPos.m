@@ -1,3 +1,4 @@
+% Yashar Zafari - 99106209 - Robotics Homework 3
 function [ theta1 , theta2 , d] = RRP_InvPos( pos )
 pos = round (pos , 3);
 L1 =310;
